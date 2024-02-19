@@ -1,25 +1,44 @@
 {
   "partidos": [
-    {
-      "id":"1",
-      "resultado":"River Plate 3 Vs Boca Juniors 1",
-      "contexto":"Final Copa Libertadores 2018",
-      "estadio":"Santiago Bernabeu",
-      "lugar":"Madrid",
-      "fecha":"09/12/18",
-      "jugadores":{
-        "arquero":"ARMANI",
-        "latder":"MONTIEL",
-        "centder":"MAIDANA",
-        "centizq":"PINOLA",
-        "latizq":"CASCO",
-        "medder":"FERNANDEZ",
-        "medcent":"PONZIO",
-        "medtapon":"PEREZ",
-        "medizq":"PALACIOS",
-        "delder":"MARTINEZ",
-        "delizq":"PRATTO"
+   {
+    "id": 1,
+    "razonSocial": "Los pollos hermanos",
+    "cuit": 30335038623,
+    "fecha": "2024-02-12",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 139000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
       }
+    ]
+  },
     },
     {
       "id":"2",
