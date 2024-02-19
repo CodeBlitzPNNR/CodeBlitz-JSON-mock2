@@ -1,148 +1,200 @@
 {
-  "jugadores": [
-    {
-    "id": "1",
-    "nombre": "Enzo",
-    "apellido": "Fernández",
-    "nacionalidad": "ARG",
-    "liga": "BPL",
-    "equipo": "CHL",
-    "posicion": "MED",
-    "edad": "24",
-    "dorsal": "16",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
+ "presupuestos": [
+  {
+    "id": 1,
+    "razonSocial": "Los pollos hermanos",
+    "cuit": 30335038623,
+    "fecha": "2024-02-12",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 139000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
+      }
+    ]
   },
   {
-    "id": "2",
-    "nombre": "Virgil",
-    "apellido": "Van Dijk",
-    "nacionalidad": "NED",
-    "liga": "BPL",
-    "equipo": "LIV",
-    "posicion": "DEF",
-    "edad": "27",
-    "dorsal": "4",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
+    "id": 2,
+    "razonSocial": "Mr. Big",
+    "cuit": 30325038613,
+    "fecha": "2024-02-11",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 19000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
+      }
+    ]
   },
   {
-    "id": "3",
-    "nombre": "Richarlison",
-    "apellido": "de Andrade",
-    "nacionalidad": "BRA",
-    "liga": "BPL",
-    "equipo": "TOT",
-    "posicion": "DEL",
-    "edad": "26",
-    "dorsal": "12",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
+    "id": 3,
+    "razonSocial": "Los pollos hermanos",
+    "cuit": 30335038623,
+    "fecha": "2024-02-12",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 139000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
+      }
+    ]
   },
   {
-    "id": "4",
-    "nombre": "Robert",
-    "apellido": "Lewandoski",
-    "nacionalidad": "POL",
-    "liga": "LLS",
-    "equipo": "BAR",
-    "posicion": "DEL",
-    "edad": "34",
-    "dorsal": "9",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
+    "id": 4,
+    "razonSocial": "Los pollos hermanos",
+    "cuit": 30335038623,
+    "fecha": "2024-02-12",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 139000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
+      }
+    ]
   },
   {
-    "id": "5",
-    "nombre": "Toni",
-    "apellido": "Kroos",
-    "nacionalidad": "ALE",
-    "liga": "LLS",
-    "equipo": "RM",
-    "posicion": "MED",
-    "edad": "33",
-    "dorsal": "8",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
-  },
-  {
-    "id": "6",
-    "nombre": "Antonio",
-    "apellido": "Rudiger",
-    "nacionalidad": "ALE",
-    "liga": "LLS",
-    "equipo": "RM",
-    "posicion": "DEF",
-    "edad": "30",
-    "dorsal": "6",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
-  },
-  {
-    "id": "7",
-    "nombre": "Rafael",
-    "apellido": "Leao",
-    "nacionalidad": "POR",
-    "liga": "CAL",
-    "equipo": "MIL",
-    "posicion": "DEL",
-    "edad": "24",
-    "dorsal": "7",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
-  },
-  {
-    "id": "8",
-    "nombre": "Nicolo",
-    "apellido": "Barella",
-    "nacionalidad": "ITA",
-    "liga": "CAL",
-    "equipo": "INT",
-    "posicion": "MED",
-    "edad": "26",
-    "dorsal": "16",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
-  },
-  {
-    "id": "9",
-    "nombre": "Theo",
-    "apellido": "Hernández",
-    "nacionalidad": "FRA",
-    "liga": "CAL",
-    "equipo": "MIL",
-    "posicion": "DEF",
-    "edad": "28",
-    "dorsal": "4",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
-  },
-  {
-    "id": "10",
-    "nombre": "Ignacio",
-    "apellido": "Fernandez",
-    "nacionalidad": "ARG",
-    "liga": "LPF",
-    "equipo": "RIV",
-    "posicion": "MED",
-    "edad": "33",
-    "dorsal": "10",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
-  },
-  {
-    "id": "11",
-    "nombre": "Enzo",
-    "apellido": "Perez",
-    "nacionalidad": "ARG",
-    "liga": "LPF",
-    "equipo": "RIV",
-    "posicion": "MED",
-    "edad": "37",
-    "dorsal": "24",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
-  },
-  {
-    "id": "12",
-    "nombre": "Nicolas",
-    "apellido": "Fernandez",
-    "nacionalidad": "ARG",
-    "liga": "ARG",
-    "equipo": "DYJ",
-    "posicion": "MED",
-    "edad": "27",
-    "dorsal": "29",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
-  }  
-  ]
-}
+    "id": 5,
+    "razonSocial": "Los pollos hermanos",
+    "cuit": 30335038623,
+    "fecha": "2024-02-12",
+    "metodo": "Efectivo",
+    "envio": false,
+    "total": 139000,
+    "detalle": [
+      {
+        "codigo": "13",
+        "descripcion": "Chapas Galvanizadas",
+        "cantidad": "30",
+        "precio": "3200",
+        "impuesto": false
+      },
+      {
+        "codigo": "14",
+        "descripcion": "Chapas Translucidas verdes",
+        "cantidad": "12",
+        "precio": "3800",
+        "impuesto": false
+      },
+      {
+        "codigo": "1",
+        "descripcion": "Mano de Obra",
+        "cantidad": "1",
+        "precio": "120000",
+        "impuesto": false
+      },
+      {
+        "codigo": "4",
+        "descripcion": "Herrajes y Fierros de soldado",
+        "cantidad": "1",
+        "precio": "12000",
+        "impuesto": false
+      }
+    ]
+  }
+]
+};
+
